@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402961674269",
+    "firebase_url": "https://intelligentdictionary-63196.firebaseio.com",
+    "project_id": "intelligentdictionary-63196",
+    "storage_bucket": "intelligentdictionary-63196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402961674269:android:585a417dbd473dbf",
+        "android_client_info": {
+          "package_name": "com.cat300.ty_ch.intelligentdictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402961674269-m83rv2dlitnsp8vhtqihshbakn3s2rtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cat300.ty_ch.intelligentdictionary",
+            "certificate_hash": "efef7e7379fe73e79ff619edd0905596833b14e2"
+          }
+        },
+        {
+          "client_id": "402961674269-262q1pjqd8afi1slvusd8iet9glqrjq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkHiEoIFpkBJBGV5oNLqjrbYY2DlCwy7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402961674269-262q1pjqd8afi1slvusd8iet9glqrjq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

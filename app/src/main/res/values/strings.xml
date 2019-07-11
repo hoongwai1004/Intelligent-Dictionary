@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intelligent Dictionary</string>
+
+    <string-array name="language">
+        <item>English</item>
+        <item>Chinese</item>
+        <item>Malay</item>
+    </string-array>
+</resources>
