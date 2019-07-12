@@ -7,6 +7,21 @@ Currently, the English language is a lingua franca around the world and used in 
 	In short, Intelligent Dictionary is expected to improve student’s English language proficiency and improve the efficiency of word searching, so that students can use less time to search for a word from the appropriate source.
 
 ### System Interface
-|Main page and word type search|OCR recognition|Speech recognition|Searched history list|Favorite list|Word meaning page|
-| :---: | :---: | :---: | :---: | :---: |
-|![](/result/main.png)|![](/result/ocr.png)|![](/result/speech.png)|![](/result/history.png)|![](/result/favorite.png)|![](/result/meaning.png)|
+<table style="width:100%">
+  <tr>
+    <th>Main page and word type search</th>
+    <th>OCR recognition</th> 
+    <th>Speech recognition</th>
+    <th>Searched history list</th>
+    <th>Favorite list</th>
+    <th>Word meaning page</th>
+  </tr>
+  <tr>
+    <td>![](/result/main.png)</td>
+    <td>![](/result/ocr.png)</td>
+    <td>![](/result/speech.png)</td>
+    <td>![](/result/history.png)</td>
+    <td>![](/result/favorite.png)</td>
+    <td>![](/result/meaning.png)</td>
+  </tr>
+</table>
