@@ -8,14 +8,14 @@ Currently, the English language is a lingua franca around the world and used in 
 
 ### System Interface
 Main page and word type search\
-![](/result/main.png){:height}
+![](/result/main.png)\
 OCR recognition\
-![](/result/ocr.png)
+![](/result/ocr.png)\
 Speech recognition\
-![](/result/speech.png)
+![](/result/speech.png)\
 Searched history list\
-![](/result/history.png)
+![](/result/history.png)\
 Favorite list\
-![](/result/favorite.png)
+![](/result/favorite.png)\
 Word meaning page\
 ![](/result/meaning.png)
