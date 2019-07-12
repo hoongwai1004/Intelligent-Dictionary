@@ -12,14 +12,18 @@ Currently, the English language is a lingua franca around the world and used in 
     <th>Main page and word type search</th>
     <th>OCR recognition</th> 
     <th>Speech recognition</th>
-    <th>Searched history list</th>
-    <th>Favorite list</th>
-    <th>Word meaning page</th>
   </tr>
   <tr>
     <td><img src="/result/main.png" height="350px"></td>
     <td><img src="/result/ocr.png" height="350px></td>
     <td><img src="/result/speech.png" height="350px></td>
+  </tr>
+  <tr>
+    <th>Searched history list</th>
+    <th>Favorite list</th>
+    <th>Word meaning page</th>
+  </tr>
+  <tr>
     <td><img src="/result/history.png" height="350px></td>
     <td><img src="/result/favorite.png" height="350px></td>
     <td><img src="/result/meaning.png" height="350px></td>
