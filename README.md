@@ -17,11 +17,11 @@ Currently, the English language is a lingua franca around the world and used in 
     <th>Word meaning page</th>
   </tr>
   <tr>
-    <td>![](/result/main.png)</td>
-    <td>![](/result/ocr.png)</td>
-    <td>![](/result/speech.png)</td>
-    <td>![](/result/history.png)</td>
-    <td>![](/result/favorite.png)</td>
-    <td>![](/result/meaning.png)</td>
+    <td><img src="/result/main.png" height="350px"></td>
+    <td><img src="/result/ocr.png" height="350px></td>
+    <td><img src="/result/speech.png" height="350px></td>
+    <td><img src="/result/history.png" height="350px></td>
+    <td><img src="/result/favorite.png" height="350px></td>
+    <td><img src="/result/meaning.png" height="350px></td>
   </tr>
 </table>
